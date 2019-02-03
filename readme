@@ -1,0 +1,12 @@
+Instructions:-
+
+The files contain only the codes and also use codes of other files as an include.
+So, no files contain main function. Instead it is kept in a separate single file called main.cpp
+Just copy and paste the main function from the main file to run and check the code.
+
+P.S:- Queue and stack created from array have their own main functions.
+P.S:- Oh! and I'm sorry for the weird pseudocodes, i was just in a different mood XD...
+
+
+Have a nice day
+SHASHANK ;-)
